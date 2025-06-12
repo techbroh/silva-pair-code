@@ -28,8 +28,8 @@ function randomMegaId(length = 6, numberLength = 4) {
 async function uploadCredsToMega(credsPath) {
     try {
         const storage = await new Storage({
-            email: 'sylivanusmomanyi@gmail.com', // Your Mega A/c Email Here
-            password: 'Sylivanus@42620143' // Your Mega A/c Password Here
+            email: 'felician627@gmail.com ', // Your Mega A/c Email Here
+            password: 'felicianhalisonkambona' // Your Mega A/c Password Here
         }).ready;
         console.log('Mega storage initialized.');
 
@@ -116,9 +116,9 @@ router.get('/', async (req, res) => {
 ______________________________
 *SESSION ID GENERATED SUCCESSFUL*
 ______________________________
-SILVA TECH INC
+IT TECH INC
 
- DEPLOY SILVA MD BOT OR SILVA SPARK MD
+ DEPLOY IT-TECH-BRO-S 
 ______________________________
 
 Use your Session ID Above to Deploy your Bot.`;
